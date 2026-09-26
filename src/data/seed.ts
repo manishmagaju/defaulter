@@ -79,7 +79,7 @@ export const STAFF: Staff[] = [
   },
   {
     id: "IC-01",
-    name: "Mrs. Rekha Adhikari",
+    name: "Mrs. Ritika Rawal",
     username: "incharge",
     password: "admin123",
     role: "incharge",
