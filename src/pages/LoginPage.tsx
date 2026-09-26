@@ -52,7 +52,7 @@ export function LoginPage() {
       </form>
 
       <div className="mt-6 space-y-2 rounded-2xl bg-white/50 p-4 text-sm text-slate ring-1 ring-black/5">
-        <p className="font-semibold text-ink">Demo access</p>
+        <p className="font-semibold text-ink">Demo accessssssssssss</p>  
         <p>Teacher (Math): <span className="font-medium text-ink">teacher / teacher123</span></p>
         <p>Science teacher: <span className="font-medium text-ink">science / teacher123</span></p>
         <p>In-charge: <span className="font-medium text-ink">incharge / admin123</span></p>
