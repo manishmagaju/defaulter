@@ -33,13 +33,13 @@ export const SUBJECTS: Subject[] = [
 
 export const STAFF: Staff[] = [
   {
-    id: "T-MATH",
-    name: "Mr. Aakash Sharma",
-    username: "teacher",
-    password: "teacher123",
+    id: "T-English",
+    name: "Mr. Ritika Rawal",
+    username: "Ritika",
+    password: "Ritika@123",
     role: "teacher",
-    subjectIds: ["SUB-MATH"],
-    title: "Mathematics Teacher",
+    subjectIds: ["SUB-English"],
+    title: "English Teacher",
   },
   {
     id: "T-SCI",
